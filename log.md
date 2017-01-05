@@ -9,7 +9,7 @@
 
 **Link to work:** [Leonard Cohen Tribute Page](https://github.com/linjojesan/Leonard-Cohen-Tribute-Page/blob/master/Cohen%20tribute%20page.html)
 
-# 100 Days Of Code - Log
+
 
 ### Day 2: January 4, 2017 (Example 1)
 ##### (delete me or comment me out)
