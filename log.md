@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2017 (Example 1)
+### Day 1: January 3, 2017 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Created Tribute Page for Leonard Cohen
@@ -11,7 +11,7 @@
 
 
 
-### Day 2: January 4, 2017 (Example 1)
+### Day 2: January 4, 2017 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Worked on personal portfolio page
@@ -20,4 +20,14 @@
 
 **Link to work:** [personal portfolio page](https://codepen.io/LinjoJesan/pen/jyEMBP)
 
+
+### Day 3: January 5, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Created first webpage, which I am extremely proud of because I used my own snarky humour with design. I am addicted to coding. I can't stop. I won't stop. I have found my purpose. OH, so this exercise came out of a class project at epicodus that I typed up in markdown language. Then I thought it would be cool to create an html version. So, I did and I also learned how to load index.html files to a webhost service. 
+
+**Thoughts:**  It's 4:38 in the morning and I am not the least tired. I still want to code. WOW
+
+**Link to webpage** 
+[snarky cookie recipe](http://gingersnark.host22.com/gingersnaps.html)
 
