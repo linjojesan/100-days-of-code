@@ -31,3 +31,13 @@
 **Link to webpage** 
 [snarky cookie recipe](http://gingersnark.host22.com/gingersnaps.html)
 
+### Day 3: January 5, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Erased original portfolio project, uploaded new. Added glypicons, and line style icons, experimented with different backgrounds and created blog for coding journey. 
+
+**Thoughts:**  I am really liking design. I love creating harmony on a page. 
+
+**Link to webpage** 
+[snarky cookie recipe](http://gingersnark.host22.com/gingersnaps.html)
+
