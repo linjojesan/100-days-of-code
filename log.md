@@ -41,3 +41,14 @@
 **Link to webpage** 
 [portmyfolio](https://codepen.io/LinjoJesan/pen/jyEMBP)
 
+### Day 5: January 7, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Created a static website generator with Hugo for easy updating of blog
+
+**Thoughts:**  no thoughts
+
+**Link to webpage** 
+[Hugo Website](https://github.com/linjojesan/linjojesan.github.io-two)
+
+
