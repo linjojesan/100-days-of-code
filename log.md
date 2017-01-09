@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 3, 2017 
-##### (delete me or comment me out)
+ (delete me or comment me out)
 
 **Today's Progress**: Created Tribute Page for Leonard Cohen
 
@@ -12,7 +12,7 @@
 
 
 ### Day 2: January 4, 2017 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Worked on personal portfolio page
 
@@ -22,7 +22,7 @@
 
 
 ### Day 3: January 5, 2017 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Created first webpage, which I am extremely proud of because I used my own snarky humour with design. I am addicted to coding. I can't stop. I won't stop. I have found my purpose. OH, so this exercise came out of a class project at epicodus that I typed up in markdown language. Then I thought it would be cool to create an html version. So, I did and I also learned how to load index.html files to a webhost service. 
 
@@ -32,7 +32,7 @@
 [snarky cookie recipe](http://gingersnark.host22.com/gingersnaps.html)
 
 ### Day 4: January 6, 2017 
-##### (delete me or comment me out)
+ 
 
 **Today's Progress**: Erased original portfolio project, uploaded new. Added glypicons, and line style icons, experimented with different backgrounds and created blog for coding journey. 
 
@@ -42,7 +42,6 @@
 [portmyfolio](https://codepen.io/LinjoJesan/pen/jyEMBP)
 
 ### Day 5: January 7, 2017 
-##### (delete me or comment me out)
 
 **Today's Progress**: Created a static website generator with Hugo for easy updating of blog
 
@@ -50,5 +49,14 @@
 
 **Link to webpage** 
 [Hugo Website](https://github.com/linjojesan/linjojesan.github.io-two)
+
+### Day 6: January 8, 2017 
+
+**Today's Progress**: Worked on Tribute Page, added border, added jumbotron and deleted jumbotron, created more information for bio. 
+
+**Thoughts:**  no thoughts
+
+**Link to webpage** 
+[Leonard Cohen](https://codepen.io/LinjoJesan/pen/GrRXgw)
 
 
