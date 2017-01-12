@@ -59,4 +59,13 @@
 **Link to webpage** 
 [Leonard Cohen](https://codepen.io/LinjoJesan/pen/GrRXgw)
 
+# 100 Days Of Code - Log
 
+### Day 1: January 11, 2017 
+ (delete me or comment me out)
+
+**Today's Progress**: Worked on creating webpage for Epicodus class, been sick for two days, had a really bad cold so I have missed twod days of coding challenge. ughhhh
+
+**Thoughts:** It's snowing here like crazy, so we had to work online and I was confused on how the process worked, so now I am behind in class a little but not in coding. 
+
+**Link to work:** [myfirstswebpage](https://github.com/linjojesan/my-first-webpage)
