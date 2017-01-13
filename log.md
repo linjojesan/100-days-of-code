@@ -67,3 +67,11 @@
 **Thoughts:** It's snowing here like crazy, so we had to work online and I was confused on how the process worked, so now I am behind in class a little but not in coding. 
 
 **Link to work:** [myfirstswebpage](https://github.com/linjojesan/my-first-webpage)
+
+### Day 8: January 12, 2017 
+ 
+**Today's Progress**: Added css to my-first-webpage for Epicodus, worked with Git more and solved some upstream problems, created two webpages for folder, and css style sheets
+
+**Thoughts:** It's great to not be sick anymore. 
+
+[my-first-webpage](https://github.com/linjojesan/my-first-webpage-epicodus)
