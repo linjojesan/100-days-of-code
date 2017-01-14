@@ -75,3 +75,12 @@
 **Thoughts:** It's great to not be sick anymore. 
 
 [my-first-webpage](https://github.com/linjojesan/my-first-webpage-epicodus)
+
+### Day 9: January 13, 2017 
+ 
+**Today's Progress**: Learned about branches, merging, and creating new branches for website debugging, editing, and designing. Created first multipage website.
+
+**Thoughts:** Starting to understand html and CSS a lot better, getting great with gitbash.  
+[Resort website](https://github.com/linjojesan/private-resort-wb)
+
+
