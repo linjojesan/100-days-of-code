@@ -83,11 +83,18 @@
 **Thoughts:** Starting to understand html and CSS a lot better, getting great with gitbash.  
 [Resort website](https://github.com/linjojesan/private-resort-wb)
 
-### Day : January 13, 2017 
+### Day 10 : January 14, 2017 
  
 **Today's Progress**: added background image, created filters from gimp, 50/50% exactly for html and css, day 10 yo!
 
 **Thoughts:** Created a nice juxtoposition for my favorite places webpage, nuclear bombs and idyllic paradise's go together in a strange disparate way. Ironic eighties themed webpage
+[Resort website](https://linjojesan.github.io/my-first-webpage-epicodus)
+
+### Day 11 : January 15, 2017 
+ 
+**Today's Progress**: Learned about the awesome power of <div> & <span>, worked with floats around text. I am on day 11! Also, dabble in Javascript and learned about var and operators. 
+
+**Thoughts:** I have a very weird style. 
 [Resort website](https://linjojesan.github.io/my-first-webpage-epicodus)
 
 
