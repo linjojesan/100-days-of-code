@@ -97,9 +97,13 @@
 **Thoughts:** I have a very weird style. 
 [cupcake shop](### Day : January 14, 2017 
  
-**Today's Progress**: added background image, created filters from gimp, 50/50% exactly for html and css, day 10 yo!
-
-**Thoughts:** Created a nice juxtoposition for my favorite places webpage, nuclear bombs and idyllic paradise's go together in a strange disparate way. Ironic eighties themed webpage
 [Resort website](https://github.com/linjojesan/cupcakefreak)
+
+### Day 12 : January 16, 2017 
+ 
+**Today's Progress**: Worked on cupcake website, and private resort website. Created alt branch, and different css mockups. 
+ 
+**Thoughts:** No thoughts
+[Resort website](https://github.com/linjojesan/private-resort-wb)
 
 
