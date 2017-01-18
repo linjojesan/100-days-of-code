@@ -107,3 +107,13 @@
 [Resort website](https://github.com/linjojesan/private-resort-wb)
 
 
+### Day 13 : January 17, 2017 
+ 
+**Today's Progress**: Practiced html, css and created boring lecture website. 
+ 
+**Thoughts:** No thoughts
+[Boring-lecture website](https://github.com/linjojesan/boring-lecture)
+
+
+
+
