@@ -114,6 +114,14 @@
 **Thoughts:** No thoughts
 [Boring-lecture website](https://github.com/linjojesan/boring-lecture)
 
+### Day 14: January 18, 2017 
+ 
+**Today's Progress**:Worked on CSS Art, finally back in school today after a period of almost two weeks. I learned about specitivity in css, and cascading rules. 
+ 
+**Thoughts:** I got stuck on the first css koala design. I have to go back to it. 
+[deformed koala ](https://codepen.io/LinjoJesan/pen/BpQGaP)
+
+
 
 
 
