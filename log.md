@@ -121,7 +121,7 @@
 **Thoughts:** I got stuck on the first css koala design. I have to go back to it. 
 [deformed koala ](https://codepen.io/LinjoJesan/pen/BpQGaP)
 
-### Day 14: January 18, 2017 
+### Day 15: January 21, 2017 
  
 **Today's Progress**: Learned about Media queries, created page with and assigned different css for different viewports. 
  
