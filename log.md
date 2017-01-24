@@ -128,6 +128,15 @@
 **Thoughts:** 
 [media-query practice ](https://github.com/linjojesan/media-query-practice)
 
+### Day 15: January 21, 2017 
+ 
+**Today's Progress**: Studied Bootstrap design, frameworks, and worked with different elements like jumbotrons, containers, the row system. 
+ 
+**Thoughts:** 
+I'm at week four now of coding bootcamp classes, starting java script next week. 
+
+[media-query practice ](https://github.com/linjojesan/media-query-practice)
+
 
 
 
