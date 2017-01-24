@@ -128,7 +128,7 @@
 **Thoughts:** 
 [media-query practice ](https://github.com/linjojesan/media-query-practice)
 
-### Day 15: January 21, 2017 
+### Day 16: January 23, 2017 
  
 **Today's Progress**: Studied Bootstrap design, frameworks, and worked with different elements like jumbotrons, containers, the row system. 
  
