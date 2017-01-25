@@ -137,6 +137,14 @@ I'm at week four now of coding bootcamp classes, starting java script next week.
 
 [media-query practice ](https://github.com/linjojesan/media-query-practice)
 
+Day 17: January 23, 2017
+
+Today's Progress: Changed css on old webpages, worked with bootstrap, and media queries. Getting this in very late, because other work got involved. 
+
+Thoughts:
+
+media-query practice
+
 
 
 
