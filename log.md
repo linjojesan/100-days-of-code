@@ -139,7 +139,7 @@ I'm at week four now of coding bootcamp classes, starting java script next week.
 
 ### Day 17: January 23, 2017
 
-**Today's Progress: Changed css on old webpages, worked with bootstrap, and media queries. Getting this in very late, because other work got involved. 
+**Today's Progress** Changed css on old webpages, worked with bootstrap, and media queries. Getting this in very late, because other work got involved. 
 
 **Thoughts:**
 
@@ -147,7 +147,7 @@ media-query practice
 
 ### Day 18: January 25, 2017
 
-**Todays Progress: Started a Wikipedia Page recreation in Bootstrap, having problems with finding how to select the right div, but now going to try nth child and more span classes instead of Divs. 
+**Todays Progress:** Started a Wikipedia Page recreation in Bootstrap, having problems with finding how to select the right div, but now going to try nth child and more span classes instead of Divs. 
 
 [Wikipedia Page] (https://github.com/linjojesan/wikipedia-page)
 
