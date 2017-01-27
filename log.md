@@ -151,6 +151,14 @@ media-query practice
 
 [Wikipedia Page] (https://github.com/linjojesan/wikipedia-page)
 
+### Day 19: January 26, 2017
+
+**Todays Progress:** It's been seven hours since the first commit on my personal portfolio and I am hardly done. It's due tomorrow. So, I have been working on a minimalist scheme but it's proven very difficult to outline and design the page but this has been a great learning experience and has tested my grit. 
+
+
+
+[Wikipedia Page] (https://github.com/linjojesan/wikipedia-page)
+
 
 
 
